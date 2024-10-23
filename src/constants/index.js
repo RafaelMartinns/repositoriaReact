@@ -53,7 +53,7 @@ export const PROJECTS = [
     description:
       "Sistema onde os usuários podem cadastrar, listar e gerenciar informações sobre jogadores, como nome, time, número de gols e assistências.",
     technologies: ["HTML", "Pico CSS", "JavaScript"],
-    link:"https://github.com/RafaelMartinns/Sistema-de-Gerenciamento-de-Jogadores-de-Futebol",
+    link:"https://rafaelmartinns.github.io/Sistema-de-Gerenciamento-de-Jogadores-de-Futebol/",
   },
   {
     title: "Sistema de Vendas de Calçados",
