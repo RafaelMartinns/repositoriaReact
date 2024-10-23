@@ -3,9 +3,9 @@ import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `Sou um desenvolvedor em formação com paixão por criar soluções eficazes e escaláveis. Atualmente cursando Análise e Desenvolvimento de Sistemas, tenho experiência prática com tecnologias como Java, React.js, SQL e JavaScript. Em projetos acadêmicos e pessoais, foco  transformar problemas complexos em soluções simples e eficientes, e meu objetivo é atuar como estágiario em desenvolvimento de sistemas onde poderei aplicar minhas habilidades e aprender novas, impulsionando a inovação tecnológica.`;
+export const HERO_CONTENT = `Sou um desenvolvedor em formação com paixão por criar soluções criativas e eficazes. Atualmente cursando Análise e Desenvolvimento de Sistemas, tenho experiência prática com tecnologias como Java, React.js, SQL e JavaScript. Em projetos acadêmicos e pessoais, foco  transformar problemas complexos em soluções simples e eficientes, e meu objetivo é atuar como estágiario em desenvolvimento de sistemas onde poderei aplicar minhas habilidades e aprender novas, impulsionando a inovação tecnológica.`;
 
-export const ABOUT_TEXT = `Sempre gostei de desafios, e minha jornada na área de tecnologia reflete isso. Desde projetos acadêmicos até empreendimentos próprios, como a venda de doces, aprendi a resolver problemas de maneira criativa e focada em resultados. Acredito que o sucesso vem não só das habilidades técnicas, mas também da capacidade de trabalhar bem em equipe e lidar com as pessoas. Por isso, estou sempre buscando estudar novas tecnologias e, ao mesmo tempo, melhorar meu relacionamento humano, criando conexões significativas que impulsionam o aprendizado e o crescimento.`;
+export const ABOUT_TEXT = `Sempre gostei de desafios, e minha jornada na área de tecnologia reflete isso. Desde projetos acadêmicos até empreendimentos próprios, como a venda de doces, aprendi a resolver problemas de maneira inovadora e focada em resultados. Acredito que o sucesso vem não só das habilidades técnicas, mas também da capacidade de trabalhar bem em equipe e lidar com as pessoas. Por isso, estou sempre buscando estudar novas tecnologias e, ao mesmo tempo, melhorar meu relacionamento humano, criando conexões significativas que impulsionam o aprendizado e o crescimento.`;
 
 export const EXPERIENCES = [
   {
@@ -67,7 +67,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Rua Holda Botto Malanconi - Cep: 05853-310",
+  address: "São Paulo - SP",
   phoneNo: "11 942215577 ",
   email: "rafael3737@hotmail.com",
 };
